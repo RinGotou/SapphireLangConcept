@@ -8,8 +8,7 @@
 - Sapphire-Adhoc, 版本2.5 Alpha, 'Oratorio'
 
 部分设计尚未实现, 在文档中有标注.
-
-Kagami的很多设计主要来源于Lua, Ruby以及Visual Basic.
+Sapphire的很多设计主要来源于Lua, Ruby以及Visual Basic.
 
 ## (理想)设计目标
 - 简明的语法, 并且提供一定的自我运行时修改能力
